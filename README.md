@@ -159,4 +159,5 @@ component(document.querySelector('#root'), {
 });
 ```
 
-A component could do anything inside itself – from calling other components to setting up event listeners.
+
+
